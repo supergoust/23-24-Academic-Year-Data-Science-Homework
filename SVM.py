@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# 加载数据
+# 加载数据（这里记得将文件地址改为本地保存的地址）
 city_data = pd.read_excel(r'C:\Users\12864\Desktop\数据科学大作业/筛选后城市.xlsx')
 rural_data = pd.read_excel(r'C:\Users\12864\Desktop\数据科学大作业/筛选后农村.xlsx')
 
