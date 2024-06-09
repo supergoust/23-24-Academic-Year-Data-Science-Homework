@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
-
+#这里记得将文件地址改为本地保存的地址
 data_file_1 = r'C:\Users\12864\Desktop\数据科学大作业/数据.xlsx'
 data_file_2 = r'C:\Users\12864\Desktop\数据科学大作业/死亡人数筛选后求和.xlsx'
 
