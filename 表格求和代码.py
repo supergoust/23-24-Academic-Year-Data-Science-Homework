@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import glob
 
-# 源文件夹和目标文件夹的路径
+# 源文件夹和目标文件夹的路径（编辑为你本地的位置）
 source_folder = r'C:\Users\12864\Desktop\数据科学大作业\ready to sum'
 target_folder = r'C:\Users\12864\Desktop\数据科学大作业\have sum'
 
