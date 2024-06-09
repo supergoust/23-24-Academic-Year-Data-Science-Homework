@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import statsmodels.api as sm
 import scipy.stats as stats
 
-# Load the original Excel file
+# Load the original Excel file（这里记得将文件地址改为本地保存的地址）
 file_path = r'C:\Users\12864\Desktop\数据科学大作业/数据.xlsx'
 data = pd.read_excel(file_path)
 
